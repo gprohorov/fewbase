@@ -1,0 +1,14 @@
+
+mongodb:
+  first:
+    host: localhost
+    port: 27017
+    database: test_first
+  second:
+    host: localhost
+    port: 27017
+    database: test_second
+  third:
+    host: localhost
+    port: 27017
+    database: test_third
